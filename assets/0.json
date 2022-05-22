@@ -1,0 +1,19 @@
+{
+    "name": "Pokeball",
+    "symbol": "POKE",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "5fXAsuVFEbxKfnsW7j3P74VBkwexfjwWFs7cP4bkqoZW",
+          "share": 100
+        }
+      ]
+    }
+  }

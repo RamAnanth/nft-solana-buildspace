@@ -1,0 +1,19 @@
+{
+    "name": "Greatball",
+    "symbol": "GREAT",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "5fXAsuVFEbxKfnsW7j3P74VBkwexfjwWFs7cP4bkqoZW",
+          "share": 100
+        }
+      ]
+    }
+  }
